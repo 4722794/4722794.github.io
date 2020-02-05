@@ -1,5 +1,0 @@
-# Hello World\!
-
-Chocolate balls with chicken curry\!
-
-![A screenshot of a cell phone Description automatically generated](images/media/image1.png)
