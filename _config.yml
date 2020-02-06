@@ -6,16 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Hello World!
-description: Oh this is just the beginning!
+title: GENSECTIMES
+description: Gen(eral) Sec(tion) Times is like the general section of a library. A potpourri of ideas across disciplines that make you go, 'Woah! That's interesting!
 github_username: 4722794
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: hargun3045@gmail.com
+twitter_username: hargun3045
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
